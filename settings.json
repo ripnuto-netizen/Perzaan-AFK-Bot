@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "DeathSmpCom.aternos.me",
+    "port": 63355,
     "version": "1.21.1"
   },
   "position": {
